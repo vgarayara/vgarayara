@@ -4,7 +4,7 @@
 
 I turn conversational and voice AI into measurable outcomes for large enterprises: from the first prototype to production at scale.
 
-- 🗣️ **Voice & agentic AI in production:** accountable for 90M+ AI-powered customer interactions a year at 80%+ customer retention (SoundHound AI / Amelia).
+- 🗣️ **Voice & agentic AI in production:** accountable for 90M+ AI-powered customer interactions a year (SoundHound AI / Amelia).
 - 🏗️ **Builder:** grew a delivery organization from 3 to 30+ people across three continents.
 - 🌎 **Global and multilingual:** banking, insurance, telco, healthcare, retail and automotive across the US, Europe and Latin America. English and Spanish; basic Portuguese.
 - 🎓 IMD MBA · MIT xPRO *AI for Senior Executives* · Advisory Board, Gonzaga University *Customer Experience Leadership with AI*.
